@@ -22,7 +22,7 @@ import FileUpload from 'components/file_upload';
 import MsgTyping from 'components/msg_typing';
 import PostDeletedModal from 'components/post_deleted_modal.jsx';
 import EmojiIcon from 'components/svg/emoji_icon';
-import Textbox from 'components/textbox.jsx';
+import Textbox from 'components/textbox';
 
 export default class CreateComment extends React.PureComponent {
     static propTypes = {
